@@ -12,7 +12,7 @@ Reference
 
 * Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8):10357–10369., DOI:10.1007/s11042-016-3633-6
 
-* Jai E. Jung†, O-Joun Lee†‡, Eun-Soon You†, Myoung-Hee Nam†: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8):10371–10388., DOI:10.1007/s11042-016-3626-5 († Co-first Authors, ‡ Corresponding Author)
+* Jai E. Jung, O-Joun Lee, Eun-Soon You, Myoung-Hee Nam: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8):10371–10388., DOI:10.1007/s11042-016-3626-5
 
 * Quang Dieu Tran, Dosam Hwang, O.-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications, Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:10.1007/978-3-319-58967-1_6
 
